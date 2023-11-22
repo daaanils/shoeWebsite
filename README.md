@@ -2,4 +2,4 @@
 
 Deployment Link:
 
-https://shoe-website-iota.vercel.app/shopMen.html#
+https://shoe-website-iota.vercel.app/index.html
